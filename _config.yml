@@ -1,0 +1,35 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: Abhinav Garlapati
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Abhinav Garlapati
+
+description: Abhinav's page
+author:
+  name: Abhinav Garlapati
+  email: abhinavg@cse.iitm.ac.in
+  github: abhinav2710
+  twitter: abhinav2710
+  pinterest: abhinav2710
+  linkedin: abhinav2710
+  bio: Senior Computer Science Student, <br/> Indian Institue of Technology, Madras
+  logo: images/me.png
+  logo_small: images/me35.png
+  #email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:

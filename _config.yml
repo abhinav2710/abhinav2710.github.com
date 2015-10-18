@@ -8,6 +8,7 @@ markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
 title: Abhinav Garlapati
+
 defaults:
   -
     scope:
@@ -20,9 +21,9 @@ author:
   name: Abhinav Garlapati
   email: abhinavg@cse.iitm.ac.in
   github: abhinav2710
-  twitter: abhinav2710
-  pinterest: abhinav2710
-  linkedin: abhinav2710
+  #twitter: abhinav2710
+  #pinterest: abhinav2710
+  #linkedin: abhinav2710
   bio: Senior Computer Science Student, <br/> Indian Institue of Technology, Madras
   logo: images/me.png
   logo_small: images/me35.png

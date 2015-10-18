@@ -4,7 +4,18 @@
 		<title>Abhinav Garlapati</title>
 		<description>Abhinav's page</description>
 		<link>/</link>
-		<atom:link href="/" rel="self" type="application/rss+xml" />
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>About me</title>
+				<description>&lt;p&gt;Hi! I’m Abhinav Garlapati, a Dual Degree student in the &lt;a href=&quot;https://www.cse.iitm.ac.in/&quot;&gt; Department of Computer Science &lt;/a&gt; at the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt; Indian Institute of Technology, Madras&lt;/a&gt;, India. I will be graduating next July with Masters and Bachelors degrees.&lt;/p&gt;
+
+&lt;p&gt;I’m interested in Computer Vision and Machine Learning.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 18 Oct 2015 00:00:00 +0530</pubDate>
+				<link>/2015/10/18/About-me.html</link>
+				<guid isPermaLink="true">/2015/10/18/About-me.html</guid>
+			</item>
 		
 			<item>
 				<title>Hello World!</title>

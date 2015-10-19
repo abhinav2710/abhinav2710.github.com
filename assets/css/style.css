@@ -133,6 +133,17 @@ article.home h4 a:hover {
 	color: #e74c3c;
 }
 
+article.home p {
+    font-family: "Vollkorn";
+    font-size: 15px;
+}
+
+
+ul.course-list li {
+    font-family: "Vollkorn";
+    list-style-type: circle;
+}
+
 .author .author-image {
   float: left;
   margin-right: 20px;
@@ -183,3 +194,8 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+#cat-list a {
+    font-family: "Vollkorn";
+    font-size: 20px;
+    color: #ffffff;
+}

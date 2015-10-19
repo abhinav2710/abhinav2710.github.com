@@ -1,0 +1,21 @@
+---
+layout: page
+tagline:
+---
+<article class="home">
+  <h2>
+    Projects
+  </h2>
+
+  <hr/>
+  {% for post in site.posts %}
+  {% if post.categories contains 'project' %}
+  <h3>
+    {{ post.title }}
+  </h3>
+  <div>
+    {{ post.content }}
+  </div>
+  {% endif %}
+  {% endfor %}
+</article>

@@ -9,6 +9,10 @@ disqus: dbyll
 google_analytics: dbyll
 title: Abhinav Garlapati
 
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 defaults:
   -
     scope:

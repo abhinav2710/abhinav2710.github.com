@@ -7,6 +7,15 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Denser Multi-View Stereopsis of Planar Structures</title>
+				<description>&lt;p&gt;We propose a procedure to improve the 3D reconstruction obtained from MVS by introducing parametric priors on the shape of the structure.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 19 Oct 2015 00:00:00 +0530</pubDate>
+				<link>/project/2015/10/19/sample-project/</link>
+				<guid isPermaLink="true">/project/2015/10/19/sample-project/</guid>
+			</item>
+		
+			<item>
 				<title>About me</title>
 				<description>&lt;p&gt;Hi! I’m Abhinav Garlapati, a Dual Degree student in the &lt;a href=&quot;https://www.cse.iitm.ac.in/&quot;&gt; Department of Computer Science &lt;/a&gt; at the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt; Indian Institute of Technology, Madras&lt;/a&gt;, India. I will be graduating next July with Masters and Bachelors degrees.
 &lt;br /&gt;
@@ -14,45 +23,20 @@
 My academic interests lie in the fields of Computer Vision and Machine Learning. I am interested in application of learning techniques for tasks like recognition and detection of objects and activities from videos and images. I am very much intrigued by the success of Convolutional Neural Networks in vision and wish to explore them to understand how they work.
 &lt;br /&gt;
 &lt;br /&gt;
-Site  still under construction, return after a week to know more about me!
-&amp;lt;!—&lt;/p&gt;
-&lt;div class=&quot;bs-example&quot;&gt;
-&lt;table class=&quot;table&quot;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Row&lt;/th&gt;
-&lt;th&gt;First Name&lt;/th&gt;
-&lt;th&gt;Last Name&lt;/th&gt;
-&lt;th&gt;Email&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;John&lt;/td&gt;
-&lt;td&gt;Carter&lt;/td&gt;
-&lt;td&gt;johncarter@mail.com&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Peter&lt;/td&gt;
-&lt;td&gt;Parker&lt;/td&gt;
-&lt;td&gt;peterparker@mail.com&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;John&lt;/td&gt;
-&lt;td&gt;Rambo&lt;/td&gt;
-&lt;td&gt;johnrambo@mail.com&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;p&gt;—&amp;gt;&lt;/p&gt;
+Site  still under construction, return after a week to know more about me!&lt;/p&gt;
 </description>
 				<pubDate>Sun, 18 Oct 2015 00:00:00 +0530</pubDate>
-				<link>/home/2015/10/18/About-me.html</link>
-				<guid isPermaLink="true">/home/2015/10/18/About-me.html</guid>
+				<link>/home/2015/10/18/About-me/</link>
+				<guid isPermaLink="true">/home/2015/10/18/About-me/</guid>
+			</item>
+		
+			<item>
+				<title>A Reinforcement Learning Approach to Online Learning of Decision Trees</title>
+				<description>&lt;p&gt;We propose a procedure to improve the 3D reconstruction obtained from MVS by introducing parametric priors on the shape of the structure.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 11 Oct 2015 00:00:00 +0530</pubDate>
+				<link>/project/2015/10/11/sample-project2/</link>
+				<guid isPermaLink="true">/project/2015/10/11/sample-project2/</guid>
 			</item>
 		
 			<item>
@@ -66,8 +50,8 @@ Site  still under construction, return after a week to know more about me!
 &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 15 Nov 2013 00:00:00 +0530</pubDate>
-				<link>/general/setup/demo/2013/11/15/hello-world.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2013/11/15/hello-world.html</guid>
+				<link>/general/setup/demo/2013/11/15/hello-world/</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/hello-world/</guid>
 			</item>
 		
 			<item>
@@ -87,8 +71,8 @@ Site  still under construction, return after a week to know more about me!
   &lt;span class=&quot;l-Scalar-Plain&quot;&gt;email_md5&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;md5ofemail&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
 				<pubDate>Fri, 15 Nov 2013 00:00:00 +0530</pubDate>
-				<link>/general/setup/demo/2013/11/15/configuration.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration.html</guid>
+				<link>/general/setup/demo/2013/11/15/configuration/</link>
+				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration/</guid>
 			</item>
 		
 			<item>
@@ -98,8 +82,8 @@ Site  still under construction, return after a week to know more about me!
 &lt;p&gt;Lorem ipsum dolor sit amet,  consectetur adipisicing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,  sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
 				<pubDate>Thu, 14 Nov 2013 00:00:00 +0530</pubDate>
-				<link>/general/demo/sample/2013/11/14/sample-2.html</link>
-				<guid isPermaLink="true">/general/demo/sample/2013/11/14/sample-2.html</guid>
+				<link>/general/demo/sample/2013/11/14/sample-2/</link>
+				<guid isPermaLink="true">/general/demo/sample/2013/11/14/sample-2/</guid>
 			</item>
 		
 			<item>
@@ -114,8 +98,8 @@ Site  still under construction, return after a week to know more about me!
 
 </description>
 				<pubDate>Thu, 14 Nov 2013 00:00:00 +0530</pubDate>
-				<link>/general/demo/2013/11/14/sample.html</link>
-				<guid isPermaLink="true">/general/demo/2013/11/14/sample.html</guid>
+				<link>/general/demo/2013/11/14/sample/</link>
+				<guid isPermaLink="true">/general/demo/2013/11/14/sample/</guid>
 			</item>
 		
 	</channel>

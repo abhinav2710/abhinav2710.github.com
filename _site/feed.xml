@@ -8,13 +8,49 @@
 		
 			<item>
 				<title>About me</title>
-				<description>&lt;p&gt;Hi! I’m Abhinav Garlapati, a Dual Degree student in the &lt;a href=&quot;https://www.cse.iitm.ac.in/&quot;&gt; Department of Computer Science &lt;/a&gt; at the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt; Indian Institute of Technology, Madras&lt;/a&gt;, India. I will be graduating next July with Masters and Bachelors degrees.&lt;/p&gt;
-
-&lt;p&gt;I’m interested in Computer Vision and Machine Learning.&lt;/p&gt;
+				<description>&lt;p&gt;Hi! I’m Abhinav Garlapati, a Dual Degree student in the &lt;a href=&quot;https://www.cse.iitm.ac.in/&quot;&gt; Department of Computer Science &lt;/a&gt; at the &lt;a href=&quot;https://www.iitm.ac.in/&quot;&gt; Indian Institute of Technology, Madras&lt;/a&gt;, India. I will be graduating next July with Masters and Bachelors degrees.
+&lt;br /&gt;
+&lt;br /&gt;
+My academic interests lie in the fields of Computer Vision and Machine Learning. I am interested in application of learning techniques for tasks like recognition and detection of objects and activities from videos and images. I am very much intrigued by the success of Convolutional Neural Networks in vision and wish to explore them to understand how they work.
+&lt;br /&gt;
+&lt;br /&gt;
+Site  still under construction, return after a week to know more about me!
+&amp;lt;!—&amp;lt;div class=&quot;bs-example&quot;&amp;gt;&lt;/p&gt;
+&lt;table class=&quot;table&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Row&lt;/th&gt;
+&lt;th&gt;First Name&lt;/th&gt;
+&lt;th&gt;Last Name&lt;/th&gt;
+&lt;th&gt;Email&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;John&lt;/td&gt;
+&lt;td&gt;Carter&lt;/td&gt;
+&lt;td&gt;johncarter@mail.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Peter&lt;/td&gt;
+&lt;td&gt;Parker&lt;/td&gt;
+&lt;td&gt;peterparker@mail.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;John&lt;/td&gt;
+&lt;td&gt;Rambo&lt;/td&gt;
+&lt;td&gt;johnrambo@mail.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;—&amp;gt;&lt;/p&gt;
 </description>
 				<pubDate>Sun, 18 Oct 2015 00:00:00 +0530</pubDate>
-				<link>/2015/10/18/About-me.html</link>
-				<guid isPermaLink="true">/2015/10/18/About-me.html</guid>
+				<link>/home/2015/10/18/About-me.html</link>
+				<guid isPermaLink="true">/home/2015/10/18/About-me.html</guid>
 			</item>
 		
 			<item>

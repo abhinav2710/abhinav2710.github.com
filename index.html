@@ -4,6 +4,7 @@ tagline:
 ---
 
 {% for post in paginator.posts %}
+{% if post.categories contains 'home' %}
 <article class="home">
 
   <h2>
@@ -23,6 +24,7 @@ tagline:
     {% endif %}
   </div>
 </article>
+{% endif %}
 {% endfor %}
 
 

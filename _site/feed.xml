@@ -15,7 +15,8 @@ My academic interests lie in the fields of Computer Vision and Machine Learning.
 &lt;br /&gt;
 &lt;br /&gt;
 Site  still under construction, return after a week to know more about me!
-&amp;lt;!—&amp;lt;div class=&quot;bs-example&quot;&amp;gt;&lt;/p&gt;
+&amp;lt;!—&lt;/p&gt;
+&lt;div class=&quot;bs-example&quot;&gt;
 &lt;table class=&quot;table&quot;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -46,7 +47,8 @@ Site  still under construction, return after a week to know more about me!
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&amp;lt;/div&amp;gt;—&amp;gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;—&amp;gt;&lt;/p&gt;
 </description>
 				<pubDate>Sun, 18 Oct 2015 00:00:00 +0530</pubDate>
 				<link>/home/2015/10/18/About-me.html</link>

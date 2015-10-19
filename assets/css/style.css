@@ -114,10 +114,14 @@ article.home h1,
 article.home h2,
 article.home h3,
 article.home h4,
-article.home h5,
-article.home h6 {
+article.home h5 {
 	font-family: 'Ubuntu', sans-serif;
 	color: #f2756a;
+}
+article.home h6 {
+    	font-family: 'Ubuntu', sans-serif;
+	color: #f2756a;
+        font-size: 23px;
 }
 
 article.home h1 a,
@@ -198,4 +202,30 @@ ul.dropdown-menu>li>a>i.fa {
     font-family: "Vollkorn";
     font-size: 20px;
     color: #ffffff;
+}
+article.home h1,
+article.home h2,
+article.home h3,
+article.home h4,
+article.home h5 {
+	font-family: 'Ubuntu', sans-serif;
+	color: #f2756a;
+}
+article.home h6 {
+    	font-family: 'Ubuntu', sans-serif;
+	color: #f2756a;
+        font-size: 23px;
+}
+
+article.project h1 a,
+article.project h2 a,
+article.project h3 a,
+article.project h4 a {
+	color: #f2756a;
+}
+article.project h1 a:hover,
+article.project h2 a:hover,
+article.project h3 a:hover,
+article.project h4 a:hover {
+	color: #e74c3c;
 }

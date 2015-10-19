@@ -8,14 +8,17 @@ tagline:
   </h2>
 
   <hr/>
+
   {% for post in site.posts %}
   {% if post.categories contains 'project' %}
-  <h3>
-    {{ post.title }}
-  </h3>
-  <div>
-    {{ post.content }}
-  </div>
+  <article class="project">
+    <h6>
+      {{ post.title }}
+    </h6>
+    <div>
+      {{ post.content }}
+    </div>
+  </article>
   {% endif %}
   {% endfor %}
 </article>

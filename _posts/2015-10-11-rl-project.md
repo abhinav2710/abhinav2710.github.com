@@ -3,6 +3,7 @@ layout: post
 categories: project
 title: A Reinforcement Learning Approach to Online Learning of Decision Trees
 collaborators: Abhinav Garlapati, Aditi Raghunathan, Vaishnavh Nagarajan, Prof. Balaraman Ravindran
+tag: [Reinforcement Learning, Machine Learning]
 ---
 
 <ul>

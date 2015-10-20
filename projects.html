@@ -13,7 +13,7 @@ tagline:
   {% if post.categories contains 'project' %}
   <article class="project">
     <h6>
-      {{ post.title }}
+      <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </h6>
     <div>
       {{ post.content }}

@@ -23,13 +23,6 @@
       </a>
     </li>
     {% endif %}
-    {% if site.author.twitter %}
-    <li>
-      <a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
-        <i class="fa fa-twitter fa-lg"></i>
-      </a>
-    </li>
-    {% endif %}
     {% if site.author.email %}
     <li>
       <a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
@@ -37,12 +30,19 @@
       </a>
     </li>
     {% endif %}
+    {% if site.author.linkedin %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://in.linkedin.com/pub/{{ site.author.linkedin }}">
+        <i class="fa fa-linkedin fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
   </ul>
 </div>
 <div id="cat-list" class="text-center">
   <ul class="list-unstyled">
-    <li><a href="{{site.BASE_PATH}}/academics/">Academics</a></li>
-    <li><a href="{{site.BASE_PATH}}/projects/">Projects</a></li>
+    <li><a href="{{site.BASE_PATH}}/academics.html">Academics</a></li>
+    <li><a href="{{site.BASE_PATH}}/projects.html">Projects</a></li>
 
   </ul>
 </div>

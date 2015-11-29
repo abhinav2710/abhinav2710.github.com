@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Vollkorn:400,700)
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic)
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700)
 body{
 	color: #2c3e50;
 }
@@ -139,14 +140,16 @@ article.home h4 a:hover {
 }
 
 article.home p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
 }
 
 
+
 ul.course-list li {
-    font-family: 'Roboto', sans-serif;
-    list-style-type: circle;
+    font-family: 'Open Sans', sans-serif;
+    #font-size: 16px;
+    list-style-type: none;
 }
 
 .author .author-image {

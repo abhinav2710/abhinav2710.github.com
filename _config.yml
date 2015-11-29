@@ -10,7 +10,7 @@ google_analytics: dbyll
 title: Abhinav Garlapati
 
 # Permalinks
-permalink:        pretty
+permalink: none
 relative_permalinks: true
 
 defaults:
@@ -27,7 +27,7 @@ author:
   github: abhinav2710
   #twitter: abhinav2710
   #pinterest: abhinav2710
-  #linkedin: abhinav2710
+  linkedin: abhinav-garlapati/32/b31/37a
   bio: Senior Computer Science Student, <br/> Indian Institue of Technology, Madras
   logo: images/me.png
   logo_small: images/me35.png

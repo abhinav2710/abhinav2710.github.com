@@ -11,7 +11,7 @@ title: Abhinav Garlapati
 
 # Permalinks
 permalink: none
-relative_permalinks: true
+# relative_permalinks: true
 
 defaults:
   -

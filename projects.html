@@ -16,7 +16,7 @@ tagline:
       <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </h6>
     <div>
-      {{ post.excerpt }}
+      {{ post.excerpt | remove: '<h4>' | remove: ' Abstract ' | remove: '</h4>' }}
     </div>
   </article>
   {% endif %}
